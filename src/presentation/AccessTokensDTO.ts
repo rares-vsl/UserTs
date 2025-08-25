@@ -1,5 +1,5 @@
 export type AccessTokensDTO = {
     accessToken: string;
     refreshToken: string;
-    type: string;
+    type: int;
 }
