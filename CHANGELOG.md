@@ -1,3 +1,9 @@
+## [0.2.1](https://github.com/rares-vsl/UserTs/compare/v0.2.0...v0.2.1) (2025-08-29)
+
+### Bug Fixes
+
+* **deps:** update dependency io.github.andreabrighi:conventional-commit-strategy-for-git-sensitive-semantic-versioning-gradle-plugin to v1.0.15 ([be76770](https://github.com/rares-vsl/UserTs/commit/be76770441b06e3377493c99119ba2e6922cfdda))
+
 ## [0.2.0](https://github.com/rares-vsl/UserTs/compare/v0.1.0...v0.2.0) (2025-08-25)
 
 ### Features
