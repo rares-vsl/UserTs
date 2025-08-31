@@ -1,5 +1,5 @@
 [versions]
-node-gradle = "7.0.2"
+node-gradle = "7.1.0"
 gitSemVer = "5.1.8"
 
 [libraries]
